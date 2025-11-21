@@ -1,7 +1,7 @@
 # Quant_Prep
 
 Latest Project/Practice - NVDA Factor Exposure Analysis
-* **[View Full Analysis & Code](./Python_Studies/Pandas_Fundamentals/Factor_Exposure_Analysis.ipynb)**
+* **[View Full Analysis & Code](./Python_Studies/Pandas_Fundamentals/NVDA_Factor_Exposure_Analysis.ipynb)**
 
 Target Role: Quantitative Trader / Researcher
 Focus: Computational Linear Algebra, Statistical Modeling, Algorithmic Strategy Backtesting
