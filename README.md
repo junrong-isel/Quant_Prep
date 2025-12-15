@@ -1,9 +1,6 @@
 # Quant_Prep
 
 Latest Project/Practice - NVDA Factor Exposure Analysis
-# Quant_Prep
-
-Latest Project/Practice - NVDA Factor Exposure Analysis
 * **[View Full Analysis & Code](./Python_Studies/Pandas_Fundamentals/NVDA_Factor_Exposure_Analysis.ipynb)**
 
 Link to my MIT Linear Algebra Notes
