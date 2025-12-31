@@ -6,10 +6,10 @@ Latest Project/Practice - NVDA Factor Exposure Analysis
 Link to my MIT Linear Algebra Notes
 * **[View Notes](./Mathematics/Linear_Algebra_MIT_1806/Lectures%20Notes%20(written))**
 
-Target Role: Quantitative Trader / Researcher
+Target Roles: Quantitative Trader / Researcher
 Focus: Computational Linear Algebra, Statistical Modeling, Algorithmic Strategy Backtesting
 
-This repository serves as the public proof-of-work for my self-directed pivot into quantitative finance. It documents my daily progress in mastering the mathematical and computational stack required for high-frequency trading and research.
+This repository serves as the public proof-of-work for my pivot into quantitative finance. It documents my progress in mastering the mathematical and computational stack required for HFT and research.
 
 Academic Foundation:
 
@@ -22,9 +22,9 @@ Current Trajectory:
 
     Enrolled in MATH 246 (Linear Algebra) and FIN 311 (Principles of Finance) for Spring 2026.
 
-    Executing a self-designed curriculum in Python, NumPy, and Econometrics.
+    Executing a self-designed curriculum in Higher-level Math, Python, NumPy, and Econometrics.
 
-Competitive Edge:
+Distinctions:
 
     Varsity Esports Athlete (League of Legends): ECAC Varsity Premier Division National Champion (Fall 2025)
 
@@ -54,11 +54,9 @@ PLANNED (Post-Linear Algebra)
 
     Statistical inference, Probability distributions, Hypothesis testing
 
-2. Programming (The Tool)
+2. Programming
 
     Kaggle, Self-Study
-
-    Clean code practices, Data structures.
 
     Pandas / NumPy
 
@@ -69,11 +67,13 @@ Projects & Proof of Work
 
     Commits are made to reflect active engagement with study material, problem sets, and projects.
 
-📂/Mathematics
+📂/Mathematics 
 
 Linear Algebra: Lecture notes & Jupyter Notebooks that computationally solve and verify problem sets from MIT 18.06.
 
 📂/Python_Studies (In Development)
+
+NVDA Factor Exposure Analysis (completed)
 
 SMA Crossover Backtester (Planned): A Python script leveraging Pandas to model and backtest a 50/200-day moving average trading strategy on historical equities data (SPY).
 
