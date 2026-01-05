@@ -4,12 +4,10 @@ Latest Project/Practice - NVDA Factor Exposure Analysis
 * **[View Full Analysis & Code](./Python_Studies/Pandas_Fundamentals/NVDA_Factor_Exposure_Analysis.ipynb)**
 
 Link to my MIT Linear Algebra Notes
-* **[View Notes](./Mathematics/Linear_Algebra_MIT_1806/Lectures%20Notes%20(written))**
+* **[View Notes](./Linear_Algebra_MIT_1806/Lectures%20Notes%20(written))**
 
-Target Roles: Quantitative Trader / Researcher
+Target Roles: Quantitative Trader / Developer
 Focus: Computational Linear Algebra, Statistical Modeling, Algorithmic Strategy Backtesting
-
-This repository serves as the public proof-of-work for my pivot into quantitative finance. It documents my progress in mastering the mathematical and computational stack required for HFT and research.
 
 Academic Foundation:
 
@@ -48,15 +46,9 @@ Supplemental Material
     
     Understanding Analysis - Undergraduate Textbook
 
-PLANNED (Post-Linear Algebra)
-
-    Wasserman's All of Statistics
-
-    Statistical inference, Probability distributions, Hypothesis testing
-
 2. Programming
 
-    Kaggle, Self-Study
+    C++, Kaggle
 
     Pandas / NumPy
 
@@ -67,8 +59,7 @@ Projects & Proof of Work
 
     Commits are made to reflect active engagement with study material, problem sets, and projects.
 
-📂/Mathematics 
-
+📂/Linear_Algebra_MIT_18.06
 Linear Algebra: Lecture notes & Jupyter Notebooks that computationally solve and verify problem sets from MIT 18.06.
 
 📂/Python_Studies (In Development)
