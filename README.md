@@ -6,12 +6,11 @@ Latest Project/Practice - NVDA Factor Exposure Analysis
 Link to my MIT Linear Algebra Notes
 * **[View Notes](./Linear_Algebra_MIT_1806/Lectures%20Notes%20(written))**
 
-Target Roles: Quantitative Trader / Developer
 Focus: Computational Linear Algebra, Statistical Modeling, Algorithmic Strategy Backtesting
 
 Academic Foundation:
 
-    Roosevelt University: B.S.B.A. Finance (Quantitative Track), 3.94 GPA.
+    Roosevelt University: B.S.B.A. Finance (Quantitative Track), 3.93 GPA.
 
     Stuyvesant High School: Alumnus (2019), 1480 SAT (780 Math).
 
@@ -32,7 +31,7 @@ Distinctions:
 
 1. Mathematics
 
-    Linear Algebra (MATH 246) - Spring 2026
+    Linear Algebra (MATH 246) - Spring 2026 - Current course grade of 99%
 
     Currently studying MIT 18.06 (Gilbert Strang): Self-learning - Vectors, Matrix operations, Eigenvalues, Decomposition.
 
@@ -53,7 +52,6 @@ Supplemental Material
     Pandas / NumPy
 
     Data manipulation, Vectorized operations, Time Series indexing.
-
 
 Projects & Proof of Work
 
