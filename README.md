@@ -1,78 +1,42 @@
 # Quant_Prep
 
-Latest Project/Practice - NVDA Factor Exposure Analysis
-* **[View Full Analysis & Code](./Python_Studies/Pandas_Fundamentals/NVDA_Factor_Exposure_Analysis.ipynb)**
+Self-study repository for quantitative finance preparation - linear algebra, python, and C++.
 
-Link to my MIT Linear Algebra Notes
-* **[View Notes](./Linear_Algebra_MIT_1806/Lectures%20Notes%20(written))**
+---
 
-Focus: Computational Linear Algebra, Statistical Modeling, Algorithmic Strategy Backtesting
+# About
 
-Academic Foundation:
+This repository documents my learning process as I build the mathematical and programming foundations needed for the quantitative finance and economics field. I'm interested in both traditional quantitative finance and healthcare finance as my sister's Type 1 Diabetes diagnosis has given me a personal perspective on the financial challenges in healthcare, and I'm exploring how quantitative methods can be applied to hospital economics and healthcare systems.
 
-    Roosevelt University: B.S.B.A. Finance (Quantitative Track), 3.93 GPA.
+**Current coursework (Spring 2026):**
+- Linear Algebra (MATH 246)          99%
+- Principles of Finance (FIN 311)    100%
 
-    Stuyvesant High School: Alumnus (2019), 1480 SAT (780 Math).
+**Self-study:**
+- MIT 18.06 Linear Algebra (Gilbert Strang) **[MIT 18.06 Lecture Notes](./Linear_Algebra_MIT_1806/Lectures%20Notes%20(written))**  
+- Python for data analysis
+- C++ 
+- Calculus I, II, III
+- Harvard Statistics 110
 
+---
 
-Current Trajectory:
+## Projects
 
-    Enrolled in MATH 246 (Linear Algebra) and FIN 311 (Principles of Finance) for Spring 2026.
+**[NVDA Factor Exposure Analysis](./Python_Studies/Pandas_Fundamentals/NVDA_Factor_Exposure_Analysis.ipynb)**  
+Analysis of NVIDIA's exposure to market factors using Pandas and NumPy.
 
-    Executing a self-designed curriculum in Higher-level Math, Python, NumPy, and Econometrics.
+**C++ RREF Solver (in progress)**
+Reduced row echelon form algorithm implementation in C++.
 
-Distinctions:
+---
 
-    Varsity Esports Athlete (League of Legends): ECAC Varsity Premier Division National Champion (Fall 2025)
+## Background
 
-    Founder, Digital Strategy: Built a media brand generating revenue through data-driven content optimization and coaching.
+- B.S.B.A. Finance, Roosevelt University (3.93 GPA)
+- Stuyvesant High School '19 (1480 SAT)
+- ECAC Varsity LoL Esports National Champion, Fall 2025
 
-📚 Technical Curriculum & Progress
+---
 
-1. Mathematics
-
-    Linear Algebra (MATH 246) - Spring 2026 - Current course grade of 99%
-
-    Currently studying MIT 18.06 (Gilbert Strang): Self-learning - Vectors, Matrix operations, Eigenvalues, Decomposition.
-
-    Calculus (I, II, III): Self-learning
-
-Supplemental Material
-
-    3Blue1Brown, Paul's Online Math Notes, Multivariate differentiation, Optimization, Series.
-
-    Harvard Statistics 110
-    
-    Understanding Analysis - Undergraduate Textbook
-
-2. Programming
-
-    C++, Kaggle
-
-    Pandas / NumPy
-
-    Data manipulation, Vectorized operations, Time Series indexing.
-
-Projects & Proof of Work
-
-    Commits are made to reflect active engagement with study material, problem sets, and projects.
-
-📂/Linear_Algebra_MIT_18.06
-Linear Algebra: Lecture notes & Jupyter Notebooks that computationally solve and verify problem sets from MIT 18.06.
-
-📂/Python_Studies (In Development)
-
-NVDA Factor Exposure Analysis (completed)
-
-SMA Crossover Backtester (Planned): A Python script leveraging Pandas to model and backtest a 50/200-day moving average trading strategy on historical equities data (SPY).
-
-Goal: To demonstrate end-to-end backtesting capability, including data ingestion, signal generation, and performance metrics.
-
-📂/Projects (In Development)
-
-For research and personal projects.
-
-School Email: jhuang19@mail.roosevelt.edu
-Personal Email: junrong.isel@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/junrong-huang-555332190/
+**Contact:** jhuang19@mail.roosevelt.edu | [LinkedIn](https://www.linkedin.com/in/junrong-huang-555332190/)
